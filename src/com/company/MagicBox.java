@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class MagicBox<T> {
 
-    Object[] arr;
+    private Object[] arr;
 
     public MagicBox(int col) {
         arr = (T[]) new Object[col];

@@ -10,8 +10,8 @@ public class Main {
 
         magicBox.add("!");
 //        magicBox.pick();
-//        String p = magicBox.pick();
-//        System.out.println(p);
+     //   String p = magicBox.pick();
+ //       System.out.println(p);
 
         MagicBox<Integer> magicBox1 = new MagicBox<Integer>(3);
         magicBox1.add(123);
